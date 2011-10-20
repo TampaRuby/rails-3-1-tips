@@ -1,9 +1,9 @@
 !SLIDE 
 # Rails 3.1
-## Tips from the Trenches
-
-Tampa.rb
+## Tampa.rb
 October 20th, 2011
+
+github.com/TampaRuby
 
 !SLIDE
 
