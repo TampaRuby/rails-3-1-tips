@@ -1,0 +1,19 @@
+.content {
+/*    font-family: Helvetica;*/
+}
+
+.smbullets ul {
+  list-style: none;
+}
+
+.content.bullets ul, .content.smbullets ul {
+  padding-left: 0;
+}
+
+.content.bullets ul li, .content.smbullets ul li {
+  margin-left: 0;
+}
+
+.content.smallest {
+  font-size: 50%;
+}
